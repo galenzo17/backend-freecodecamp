@@ -1,6 +1,14 @@
 {
 	"author": "Agustin Bereciartua",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp",
+		"related",
+		"words"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
